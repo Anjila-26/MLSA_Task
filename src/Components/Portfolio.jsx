@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/developer.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Laptop and Desktop with code";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My First Blog using React App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my first Blog Website!",
+    url: "https://github.com/siddevkota/Codefest2023",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Calculator Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "My first HTML, CSS and JS calculator website.",
+    url: "https://github.com/Anjila-26/Calculator",
   },
   {
-    title: "My Resume Site",
+    title: "My AI/ML hackathon Track Winner Project",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "We made text toxicity analysis using bidirectional LSTM which was our own model and showing that by integrating Frontend(HTML/CSS) and Backend(Django)to it.",
+    url: "https://github.com/Anjila-26/ShieldTalk",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Real Time Sign Language Recognition",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "We made real time sign language recognition using CNN and showcasing that using frontend and Backend.",
+    url: "https://github.com/Anjila-26/Signlanguagerecognition",
   },
 ];
 
